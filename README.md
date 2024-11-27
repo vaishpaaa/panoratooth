@@ -52,3 +52,6 @@ To use this repository, follow these steps:
 3. Download the dataset and preprocess it according to the instructions in the data directory.
 4. Train the model using the (link unavailable) script.
 5. Evaluate the model using the (link unavailable) script.
+
+Author: vaishnav muriki
+Email: vaishpaa@gmail.com
